@@ -21,7 +21,7 @@
               <a href="<?= base_url() ?>cabor/add" class="btn btn-primary btn-sm btntambahkriteria"><i class="fa fa-plus"></i> Tambah Data</a>
 
               <!-- Table with stripped rows -->
-              <table id="example1" class="table table-bordered table-hover">
+              <table id="example1" class="table datatable">
 								<thead>
 									<tr>
 										<th>No</th>
